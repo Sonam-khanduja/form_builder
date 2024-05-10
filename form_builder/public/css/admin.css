@@ -1,0 +1,29 @@
+ body {
+    overflow-x: hidden;
+}
+
+.select2-container .select2-selection--single {
+    height: 38px;
+    padding-top: 3px;
+}
+
+.page-url {
+    font-size: 16px;
+}
+
+.navbar-brand {
+    margin: 0 20px 0 20px !important;
+}
+
+.login-bg-image {
+  background-image: linear-gradient(to right,#31aee8, #bde3f7);
+  min-height: 50vh;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+
